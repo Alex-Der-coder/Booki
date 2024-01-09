@@ -1,0 +1,339 @@
+@media all and (max-width: 992px)
+{
+    
+    #formulaire {
+        justify-content: center;
+    }
+    
+    header {
+        text-align: center;
+    }
+    
+    #collapse {
+        position: inherit;
+        margin-left: -580px;
+        margin-top: -17px;
+    }
+    #collapse:active {
+        height: 150px;
+    }
+    .circle_two  
+    {
+        margin-top: 0px;
+        position: inherit;
+        margin-left: 0px;
+    }
+    
+    .Nav_Ancre {
+        text-align: center;
+        margin-right: -21px;
+        float: none;
+        border-bottom: 2px solid #F2F2F2;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+    .Nav_Ancre > a {
+        width: 384.133px;
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    
+    .Nav_Ancre > a:hover {
+        color: #0065FC;
+        border-bottom: 2px solid #0065FC;
+        border-top: 2px solid white;
+    }
+    
+    #info {
+        margin-left: 35px;
+        margin-top: -45px;
+    }
+    
+    
+    
+    .Marseille {
+        margin-top: 0px;
+    }
+    .fa-circle-info {
+        margin-bottom: 38px;
+    }
+    
+    
+    .Box_one {
+        background-color: white;
+        width: 375px;
+        margin-right: 0px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        height: auto;
+        order: 2;
+    }
+    .card > img {
+        width: 315px;
+        border-top-style: solid;
+        height: 133.483px;
+    } 
+    .Box_one > div:nth-child(1) {
+        position: inherit;
+        padding-bottom: 0px;
+        margin-left: 17px;
+        margin-right: auto;
+    }
+    .Box_two {
+        height: 605px;
+        width: 410px;
+        margin-top: 20px;
+        order: 1;
+        margin-left: -10px;
+        
+    }
+    
+    #setting_box_two-title {
+        border-top-width: 0px;
+        width: 768px;
+        margin-left: 10px;
+        height: unset;
+    }
+    
+    .Box_trois {
+        flex-direction: column;
+        justify-content: space-between;
+        height: 1050px;
+        order: 3;
+    }
+    
+    .colonne {
+        width: 720px;
+        flex-direction: initial;
+        justify-content: center;
+        margin-right: auto;
+        display: flex;
+    }
+    
+    ul#menu_horizontal {
+        margin-bottom: 0px;
+        display: flex;
+        height: 33px;
+        width: 722px;
+        justify-content: space-between;
+        flex-direction: row;
+        margin-left: 0px;
+        padding-bottom: 30px;
+        margin-top: 0px;
+        padding-top: 20px;
+    }
+    
+    #menu_horizontal > li:nth-child(1) {
+        left: -19px;
+    }
+    #menu_horizontal > li:nth-child(2) {
+        margin-left: 9px;
+    }
+    #menu_horizontal > li:nth-child(3) {
+        margin-left: unset;
+        top: unset;
+        left: unset;
+        width: unset;
+    }
+    #menu_horizontal > li:nth-child(4) {
+        margin-left: unset;
+        bottom: unset;
+    }
+    #menu_horizontal > li:nth-child(5) 
+    {
+        margin-left: unset;
+        top: unset;
+    }
+    
+    main {
+        display: flex;
+        flex-direction: column;
+    }
+    
+    nav
+    {
+        width: 300px;
+    }
+    
+    nav ul
+    {
+        flex-direction: column;
+    }
+    
+    .space {
+        order: 3;
+        height: 45px;
+    }
+    
+    nav li
+    {
+        padding-left: 18px;
+    }
+    .Row
+    {
+        display: flex;
+        justify-content: space-between;
+        flex-direction: row;
+        width: auto;
+    }
+    
+    .Box_two > div:nth-child(1) > h1:nth-child(1) > i:nth-child(1) {
+        padding-left: inherit;
+        margin-left: 10px;
+    }
+    
+    #setting-box_two {
+        margin-left: unset;
+        margin-top: unset;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+        height: 485.5px;
+        flex-wrap: wrap;
+    }
+    
+    .card_small_3 {
+        width: 335px;
+        height: 200px;
+        padding-left: 0px;
+        margin-right: 0px;
+        margin-left: 0px;
+        margin-bottom: 0px;
+        margin-top: 0px;
+        padding-bottom: 0px;
+        padding-top: 0px;
+        padding-right: 0px;
+        border-radius: 20px;
+    }
+    .card_small_4 {
+        width: 335px;
+        height: 200px;
+        padding-left: 0px;
+        margin-right: 0px;
+        margin-left: 0px;
+        margin-bottom: 0px;
+        margin-top: 0px;
+        padding-bottom: 0px;
+        padding-right: 0px;
+        border-radius: 20px;
+        padding-top: 0px;
+    }
+    .card_small_5 {
+        margin-top: 10px;
+        margin-right: 354px;
+        border-bottom-width: 0px;
+        margin-bottom: 200px;
+        width: 335px;
+        padding-left: 0px;
+        margin-left: 0px;
+        padding-bottom: 0px;
+        padding-top: 0px;
+        height: 160px;
+        padding-right: 0px;
+        border-radius: 20px;
+        position: inherit;
+        height: 200px;
+    }
+    .title_box_two {
+        padding-left: 167px;
+        padding-top: 24px;
+    }
+    .card {
+        width: 320px;
+        margin-right: 0px;
+        margin-left: 0px;
+        border-bottom-width: 4px;
+        border-top-width: 4px;
+        border-left-width: 4px;
+        border-left-style: solid;
+        border-right-width: 4px;
+        box-shadow: 10px 18px 25px 25px #F2F2F2;
+    }
+    .card_medium_Pormégues {
+        margin-top: 0px;
+        width: 340px;
+        height: 170px;
+        margin-bottom: 55px;
+    }
+    
+    .card_medium_Frioul {
+        margin-top: 0px;
+        width: 340px;
+        height: 170px;
+        margin-bottom: 46px;
+    }
+    
+    .card_large_port {
+        margin-top: 0px;
+        width: 340px;
+        height: 170px;
+        transform: scale(1);
+        transition: transform 400ms;
+    }
+    
+    .card_large_port:hover {
+        transform: scale(1.15);
+    }
+    
+    .card_v2_1 {
+        margin-top: 0px;
+        width: 340px;
+        height: 170px;
+        transform: scale(1);
+        transition: transform 400ms;
+    }
+    .card_v2_1:hover {
+        transform: scale(1.15);
+    }
+    
+    .card_dame {       
+        margin-top: 50px;
+        width: 340px;
+        height: 170px;
+    }
+    
+    .card_medium { 
+        width: 340px;
+        height: 170px;  
+        margin-top: 50px;
+        padding-bottom: 0px;
+        
+    }
+    #row-1 { 
+        height: unset;
+        flex-direction: row;  
+    }
+    #row-2 { 
+        margin-right: 0px;
+        width: 100%;
+        flex-direction: row;
+    }
+    #setting1 { 
+        height: 8px;
+    }
+    #setting2 { 
+        height: 17px;
+    }
+    #setting4 { 
+        height: 8px;
+    }
+    #setting5 {
+        height: 17px;
+    }
+    #setting6 { 
+        height: 16px;
+    }
+    .Box_trois > div:nth-child(2) {
+        margin-bottom: 45px;
+        justify-content: center;
+        padding-top: 3%;
+    }
+    .footer_links {
+        margin-top: 75px;
+    }
+    #vieux_port {
+        box-shadow: 10px 9px 25px 25px #f2f2f2;
+    }
+}

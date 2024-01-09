@@ -1,0 +1,171 @@
+@media all and (max-width: 390px)
+{
+    button:before {
+        content: '\f002';
+        font-family: 'FontAwesome';
+    }
+    
+    .button {
+        border-radius: 10px 10px 10px 10px;
+        left: -3%;
+        width: 12%;
+    }
+    .button > span {
+        display: none;
+    }
+    .icones {
+        width: 13%;
+        left: 1px;
+    }    
+    header > h1 {
+        width: 306.9px;
+        font-size: 23px;
+        margin-left: 0px;
+        margin-right: 63px;
+    }    
+    input {
+        width: 100%;
+    }
+    header > p {
+        margin-left: -13%;
+        font-size: 17px;
+    }
+    
+    ul#menu_horizontal {
+        height: 220px;
+        width: 330px;
+        flex-direction: column;
+    }
+    #menu_horizontal > li:nth-child(3) {
+        left: 243px;
+        margin-right: 0px;
+        bottom: 48px;
+        width: 94px;
+    }
+    #menu_horizontal > li:nth-child(2) {
+        margin-left: 15px;
+    }
+    
+    #menu_horizontal > li:nth-child(4) {
+        margin-left: 13px;
+        bottom: 48px;
+    }
+    #menu_horizontal > li:nth-child(5) {
+        left: 14px;
+        bottom: 46px;
+        width: 185px;
+    }
+    
+    ul#menu_horizontal a {
+        padding-left: 12px;
+    }
+    
+    #info {
+        margin-left: 40px;
+        margin-top: -85px;
+    }
+    .fa-circle-info {
+        margin-bottom: 116px;
+        margin-left: 9px;
+    }
+    .Box_two {
+        width: 100%;
+        height: 800px;
+    }
+    .card_small_5 {
+        margin-bottom: 0px;
+        margin-right: 0px;
+    }
+    #setting-box_two {
+        height: 700px;
+    }
+    
+    section > .Marseille > .Box_two > .title > h1 {
+        margin-left: -5%;
+    }
+    
+    .colonne {
+        flex-direction: column;
+        width: 100%;
+    }
+    
+    .card {
+        width: 93%;
+    }
+    .card > img {
+        width: 97%;
+    }
+    
+    #row-1 , #row-2   {
+        flex-direction: inherit;
+    }
+    
+    .Box_trois {
+        height: 100%;
+    }
+    .card_large_port , .card_medium_Pormégues , .card_medium_Frioul , .card_v2_1 , .card_dame , .card_medium {
+        width: 346px;
+        transform: unset;
+    }
+    #menu_horizontal > li:nth-child(1) {
+        left: -2%;
+    }
+    
+    footer {
+        height: 430px;
+    }
+    
+    .Row{
+        flex-direction: column;
+    }
+    
+    #collapse {
+        position: unset;
+        margin-left: 0px;
+        padding-left: 0px;
+        padding-right: 64%;
+        font-size: small;
+    }
+    
+    #setting_box_trois {
+        padding-left: 7px;
+    }
+    
+    main {
+        margin-left: 6%;
+    }
+    
+    ::placeholder {
+        color: black;
+        font-size: 20px;
+        text-align: justify;
+        padding: 0px 20px 0px 20px;
+        
+    }
+    
+    nav > ul > li > a > span {
+        font-size: larger;
+    }  
+    Li {
+        line-height: 35px;
+        border-color: lightgrey;
+    }
+    .circle {
+        width: 38px;
+        height: 37px;
+        bottom: -1px;
+    }
+    .card_small_3 , .card_small_4 , .card_small_5 {
+        height: 175px;
+    }
+    .title_box_two {
+        padding-left: 142px;
+        padding-top: 10px;
+        font-size: larger;
+    }
+
+    .Box_two > div:nth-child(1) > h1:nth-child(1) > i:nth-child(1) {
+    margin-left: 103px;
+    }
+    
+}

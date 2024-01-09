@@ -1,0 +1,392 @@
+@media all and (max-width: 375px)
+{
+    
+    Li {
+        line-height: 35px;
+        border-color: lightgrey;
+    }
+
+    ul#menu_horizontal a {
+    padding-left: 6px;
+    }
+    
+    .circle {
+        width: 38px;
+        height: 37px;
+        bottom: -1px;
+    }
+    button:before {
+        content: '\f002';
+        font-family: 'FontAwesome';
+    }
+    
+    .button > span {
+        display: none;
+    }
+    #setting_box_trois {
+        padding: 0px 20px 0px 20px;
+    }    
+    
+    nav > ul > li > a > span {
+        font-size: larger;
+    }  
+    
+    input {
+        width: 68%;
+    }
+    header > h1 {
+        padding: 0px 0px 0px 20px;
+        font-size: 23px;
+        padding-left: 0px;
+        width: 96%;
+        margin-left: 10px;
+    }
+
+    .icones {
+        width: 11%;
+        left: 1px;
+    }
+    .circle_two  
+    {
+        margin-top: 0px;
+        position: inherit;
+        margin-left: 0px;
+        padding: 0px 20px 0px 20px;
+        padding-left: 11px;
+    }
+    header > p {
+        margin-left: -9%;
+        font-size: 89%;
+    }
+    
+    .Nav_Ancre {
+        width: 100%;
+        text-align: center;
+        margin-right: -21px;
+        float: none;
+        border-bottom: 2px solid #F2F2F2;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+    
+    
+    .Nav_Ancre > a:hover {
+        color: #0065FC;
+        border-bottom: 2px solid #0065FC;
+        border-top: 2px solid white;
+    }
+    
+    #info {
+        margin-left: 35px;
+        margin-top: -45px;
+        font-style: italic;
+        padding: 0px 20px 0px 20px;
+        position: absolute;
+        padding-right: 0px;
+        font-size: 18px;
+    }
+    
+    .Marseille {
+        margin-top: 0px;
+    }
+    .fa-circle-info {
+        margin-bottom: 38px;
+    }
+    
+    .Box_one {
+        background-color: white;
+        width: 375px;
+        margin-right: 0px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        height: auto;
+        order: 2;
+    }
+    
+    .card > img {
+        width: 291px;
+    }
+    
+    .Box_one > div:nth-child(1) {
+        position: inherit;
+        padding-bottom: 0px;
+        margin-left: 17px;
+        margin-right: auto;
+    }
+    .Box_two {
+        height: 667px;
+        margin-top: 20px;
+        order: 1;
+        margin-left: unset;
+    }
+    
+    #setting_box_two-title {
+        margin-left: 26px;
+        margin-bottom: 0px;
+    }
+    
+    .Box_trois {
+        flex-direction: column;
+        justify-content: space-between;
+        height: 1200px;
+        order: 3;
+    }
+    
+    .colonne {
+        width: unset;
+        margin-right: unset;
+        display: flex;
+        flex-direction: column;
+        padding: 0px 20px 0px 20px;
+    }
+    
+    ul#menu_horizontal {
+        margin-bottom: 0px;
+        margin-top: 10px;
+        display: flex;
+        height: 220px;
+        width: 330px;
+        justify-content: space-between;
+        margin-left: 0px;
+        flex-direction: column;
+        text-align: center;
+        padding-bottom: 0px;
+    }
+    
+    #menu_horizontal > li:nth-child(1) {
+        left: -28px;
+    }
+    #menu_horizontal > li:nth-child(2) {
+        margin-left: 9px;
+    }
+    #menu_horizontal > li:nth-child(3) {
+        margin-left: 45px;
+        top: -21%;
+        width: 91px;
+        left: 39%;
+        
+    }
+    #menu_horizontal > li:nth-child(4) {
+        margin-left: 9px;
+        bottom: 45px;
+    }
+    #menu_horizontal > li:nth-child(5) 
+    {
+        width: 180px;
+        margin-left: -4px;
+        top: -47px;
+    }
+    
+    main {
+        width: inherit;
+        display :inherit;
+        flex-direction: inherit;
+        margin-bottom: inherit; 
+        margin-left: inherit; 
+        margin-right: inherit;
+    }
+    
+    nav {
+        padding: 0px 20px 0px 20px;
+        width: 300px;
+    }
+    
+    nav ul
+    {
+        flex-direction: column;
+    }
+    
+    .space {
+        order: 3;
+        height: 45px;
+    }
+    
+    nav li
+    {
+        padding-left: 20px;
+    }
+    .Row
+    {
+        display: flex;
+        justify-content: space-between;
+        flex-direction: column;
+    }
+    
+    .Box_two > div:nth-child(1) > h1:nth-child(1) > i:nth-child(1) {
+        margin-left: 0px;
+        padding-left: 72px;
+        
+    }
+    
+    #setting-box_two {
+        margin-top: 0px;
+        flex-direction: row;
+        margin-left: auto;
+        height: 625px;
+        justify-content: space-between;
+    }
+    
+    .card_small_3 {
+        width: 300px;
+        padding-left: 0px;
+        margin-right: 0px;
+        margin-left: 0px;
+        margin-bottom: 0px;
+        margin-top: 0px;
+        padding-bottom: 0px;
+        padding-top: 0px;
+        height: 130px;
+        padding-right: 0px;
+        border-radius: 20px;
+    }
+    .card_small_4 {
+        width: 300px;
+        padding-left: 0px;
+        margin-right: 0px;
+        margin-left: 0px;
+        margin-bottom: 0px;
+        margin-top: 0px;
+        padding-bottom: 0px;
+        padding-top: 0px;
+        height: 130px;
+        padding-right: 0px;
+        border-radius: 20px;
+    }
+    .card_small_5 {
+        width: 300px;
+        padding-left: 0px;
+        margin-right: 0px;
+        margin-left: 0px;
+        margin-bottom: 0px;
+        margin-top: 0px;
+        padding-bottom: 0px;
+        padding-top: 0px;
+        height: 130px;
+        padding-right: 0px;
+        border-radius: 20px;
+    }
+    .title_box_two {
+        padding-left: 124px;
+        padding-top: 5px;
+        font-size: inherit;
+    }
+    
+    .notation_box_two {
+        margin-top: 9%;
+    }   
+    .card {
+        width: 300px;
+        margin-right: 0px;
+        margin-left: -32px;
+        
+    }
+    
+    #collapse {
+        padding-left: 40px;
+        padding-right: 0px;
+        width: 100%;
+        height: auto;
+        margin-top: -17px;
+        font-size: smaller;
+        margin-left: 0px;
+        position: unset;
+        padding: 0px 0px 0px 20px;
+        padding-left: 41px;   
+    }
+    .marge_footer {
+        margin-left: inherit; 
+        margin-right: inherit;
+        padding: 0px 20px 0px 20px;
+    }
+    
+    
+    .card_medium_Pormégues {
+        margin-top: 0px;
+        width: 307px;
+        height: 170px;
+        margin-bottom: 55px;
+    }
+    
+    .card_medium_Frioul {
+        margin-top: 0px;
+        width: 307px;
+        height: 170px;
+        margin-bottom: 46px;
+    }
+    
+    .card_large_port {
+        transition: unset;
+        transform: none;
+        margin-top: 0px;
+        width: 307px;
+        height: 170px;
+    }
+    
+    .card_v2_1 {
+        margin-top: 0px;
+        width: 307px;
+        height: 170px;
+    }
+    
+    .card_dame {       
+        margin-top: 50px;
+        width: 307px;
+        height: 170px;
+    }
+    
+    .card_medium { 
+        width: 307px;
+        height: 170px;  
+        margin-top: 50px;
+    }
+    #row-1 { 
+        height: 440px;
+        flex-direction: column;
+    }
+    #row-2 { 
+        flex-wrap: wrap;
+        margin-right: 0px;
+        height: 460px;
+    }
+    #setting1 { 
+        height: 8px;
+    }
+    #setting2 { 
+        height: 17px;
+    }
+    #setting4 { 
+        height: 8px;
+    }
+    #setting5 {
+        height: 17px;
+    }
+    #setting6 { 
+        height: 17px;
+    }
+    .Box_trois > div:nth-child(2) {
+        margin-bottom: 45px;
+        margin-top: 30px;
+    }
+    .footer_links {
+        margin-top: 219px;
+        width: 375px;
+    }
+    .button {
+        width: 12%;
+        border-radius: 14px 14px 14px 14px;
+        left: -12px;
+    }
+    footer {
+        height: 420px;
+    }
+    ::placeholder {
+        color: black;
+        font-size: 20px;
+        text-align: justify;
+        padding: 0px 20px 0px 20px;
+        
+    }
+    
+}
